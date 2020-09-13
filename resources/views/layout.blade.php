@@ -1,0 +1,5 @@
+@include('fixed.head')
+@include('fixed.nav')
+@yield('background')
+@yield('content')
+@include('fixed.footer')
