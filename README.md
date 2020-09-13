@@ -1,3 +1,17 @@
+# Social network - laravel
+My first laravel project, social network like facebook
+
+# Functionalities:
+    - Registration and login
+    - User can upload new post, like or comment a post
+    - User can add or delete friends
+    - Admin panel
+
+
+
+
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
